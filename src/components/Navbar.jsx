@@ -12,6 +12,9 @@ const Navbar = () => {
           <NavLink to="/events" style={{ color: "white", textDecoration: "none" }}>
             Events
           </NavLink>
+          <NavLink to="/venues" style={{ color: "white", textDecoration: "none" }}>
+            Venues
+          </NavLink>
         </Flex>
       </Flex>
     </Box>
